@@ -1,12 +1,12 @@
-com.example.tictactoe.app-jetified-window-1.0.0-beta04-0 /home/clutcher/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
-com.example.tictactoe.app-jetified-annotation-experimental-1.1.0-1 /home/clutcher/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
-com.example.tictactoe.app-core-1.6.0-2 /home/clutcher/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
-com.example.tictactoe.app-jetified-window-java-1.0.0-beta04-3 /home/clutcher/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
-com.example.tictactoe.app-debug-4 /home/clutcher/Flutter Projects/Tic-Tac-Toe/android/app/src/debug/res
-com.example.tictactoe.app-main-5 /home/clutcher/Flutter Projects/Tic-Tac-Toe/android/app/src/main/res
-com.example.tictactoe.app-pngs-6 /home/clutcher/Flutter Projects/Tic-Tac-Toe/build/app/generated/res/pngs/debug
-com.example.tictactoe.app-resValues-7 /home/clutcher/Flutter Projects/Tic-Tac-Toe/build/app/generated/res/resValues/debug
-com.example.tictactoe.app-rs-8 /home/clutcher/Flutter Projects/Tic-Tac-Toe/build/app/generated/res/rs/debug
-com.example.tictactoe.app-mergeDebugResources-9 /home/clutcher/Flutter Projects/Tic-Tac-Toe/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.tictactoe.app-mergeDebugResources-10 /home/clutcher/Flutter Projects/Tic-Tac-Toe/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.tictactoe.app-merged_res-11 /home/clutcher/Flutter Projects/Tic-Tac-Toe/build/app/intermediates/merged_res/debug
+com.example.tictactoe.app-jetified-annotation-experimental-1.1.0-0 C:\Users\asus\.gradle\caches\transforms-3\1c77bfe35646c8cd75e20d9d88cae3ab\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.tictactoe.app-core-1.6.0-1 C:\Users\asus\.gradle\caches\transforms-3\326cc73672287ce052b681dff115d241\transformed\core-1.6.0\res
+com.example.tictactoe.app-jetified-window-1.0.0-beta04-2 C:\Users\asus\.gradle\caches\transforms-3\4c033b68b2aa7e389fbdb9385d44f46c\transformed\jetified-window-1.0.0-beta04\res
+com.example.tictactoe.app-jetified-window-java-1.0.0-beta04-3 C:\Users\asus\.gradle\caches\transforms-3\fceb43aa8eb881956467357e9c3f1869\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.tictactoe.app-debug-4 D:\dev\Android Dev\TacXO\android\app\src\debug\res
+com.example.tictactoe.app-main-5 D:\dev\Android Dev\TacXO\android\app\src\main\res
+com.example.tictactoe.app-pngs-6 D:\dev\Android Dev\TacXO\build\app\generated\res\pngs\debug
+com.example.tictactoe.app-resValues-7 D:\dev\Android Dev\TacXO\build\app\generated\res\resValues\debug
+com.example.tictactoe.app-rs-8 D:\dev\Android Dev\TacXO\build\app\generated\res\rs\debug
+com.example.tictactoe.app-mergeDebugResources-9 D:\dev\Android Dev\TacXO\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.tictactoe.app-mergeDebugResources-10 D:\dev\Android Dev\TacXO\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.tictactoe.app-merged_res-11 D:\dev\Android Dev\TacXO\build\app\intermediates\merged_res\debug

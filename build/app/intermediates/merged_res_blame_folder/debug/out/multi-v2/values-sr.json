@@ -4,7 +4,7 @@
             "outputFile": "com.example.tictactoe.app-mergeDebugResources-9:/values-sr/values-sr.xml",
             "map": [
                 {
-                    "source": "/home/clutcher/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res/values-sr/values-sr.xml",
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-3\\326cc73672287ce052b681dff115d241\\transformed\\core-1.6.0\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

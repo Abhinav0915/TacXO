@@ -1,0 +1,28 @@
+^D:\DEV\ANDROID DEV\TACXO\BUILD\WINDOWS\CMAKEFILES\B35B9BF2A4E5425E247C73957705AA81\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Windows\System32\flutter "PROJECT_DIR=D:\dev\Android Dev\TacXO" FLUTTER_ROOT=C:\Windows\System32\flutter "FLUTTER_EPHEMERAL_DIR=D:\dev\Android Dev\TacXO\windows\flutter\ephemeral" "PROJECT_DIR=D:\dev\Android Dev\TacXO" "FLUTTER_TARGET=D:\dev\Android Dev\TacXO\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC80NWY2ZTAwOTExMGRmNGYzNGVjMmNmOTlmNjNjZjczYjcxYjdhNDIwLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=D:\dev\Android Dev\TacXO\.dart_tool\package_config.json" C:/Windows/System32/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DEV\ANDROID DEV\TACXO\BUILD\WINDOWS\CMAKEFILES\318202EE4A60012F1CD373D834314E55\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DEV\ANDROID DEV\TACXO\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/dev/Android Dev/TacXO/windows" "-BD:/dev/Android Dev/TacXO/build/windows" --check-stamp-file "D:/dev/Android Dev/TacXO/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^D:\DEV\ANDROID DEV\TACXO\BUILD\WINDOWS\CMAKEFILES\C0F9501D0770A4116B162330888CF77E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/dev/Android Dev/TacXO/windows" "-BD:/dev/Android Dev/TacXO/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/dev/Android Dev/TacXO/build/windows/tictactoe.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
