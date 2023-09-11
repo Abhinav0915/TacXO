@@ -1,2 +1,16 @@
-# Tic-Tac-Toe
-This repository contains a fun and interactive Tic-Tac-Toe game built using the Flutter framework. Tic-Tac-Toe is a classic two-player game between the user and the computer wherer Xs and Os are to be placed on a 3x3 grid, with the objective of getting three of their symbols in a row horizontally, vertically, or diagonally.
+# tictactoe
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
