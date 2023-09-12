@@ -45,6 +45,7 @@ class _HomepageState extends State<Homepage> {
             ),
             const SizedBox(height:40.0),
             TextField(
+
               controller: _nameController,
               onChanged: (value) {
                 setState(() {
@@ -86,10 +87,15 @@ class _HomepageState extends State<Homepage> {
                 const SizedBox(width: 20.0),
                 Expanded(
                   child: ElevatedButton(
-                    onPressed: () {
-                      Navigator.pushNamed(context, '/game');
-
-                    },
+                    onPressed: enteredName.isNotEmpty
+                        ? () {
+                      Navigator.pushNamed(
+                        context,
+                        '/game',
+                        arguments: enteredName,
+                      );
+                    }
+                        : null, // Disable the button when enteredName is empty
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.green,
                       padding: const EdgeInsets.all(16.0),
@@ -97,13 +103,13 @@ class _HomepageState extends State<Homepage> {
                     child: const Text(
                       'Next',
                       style: TextStyle(
-
                         fontSize: 18.0,
                         color: Colors.white,
                       ),
                     ),
                   ),
                 ),
+
 
               ],
             )
