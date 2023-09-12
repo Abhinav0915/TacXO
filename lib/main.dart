@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../pages/homepage.dart';
+import '../pages/game.dart';
 
 void main() {
   runApp(const TacXO());
@@ -17,6 +18,7 @@ class _TacXOState extends State<TacXO> {
   Widget build(BuildContext context) {
     var routes = {
       '/': (context) => const Homepage(),
+      '/game': (context) => GamePage(),
     };
     return MaterialApp(
       debugShowCheckedModeBanner: false,
